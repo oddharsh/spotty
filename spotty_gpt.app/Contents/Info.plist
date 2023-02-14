@@ -11,11 +11,11 @@
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.spotty-test</string>
+	<string>com.apple.ScriptEditor.id.spotty-gpt</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>spotty_test</string>
+	<string>spotty_gpt</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -68,11 +68,11 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>500</real>
+		<real>363</real>
 		<key>savedFrame</key>
 		<string>297 247 700 678 0 0 1512 950 </string>
 		<key>selectedTab</key>
-		<string>log</string>
+		<string>description</string>
 	</dict>
 </dict>
 </plist>
